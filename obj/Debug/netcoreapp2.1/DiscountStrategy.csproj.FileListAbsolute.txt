@@ -1,0 +1,11 @@
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\DiscountStrategy.deps.json
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\DiscountStrategy.runtimeconfig.json
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\DiscountStrategy.runtimeconfig.dev.json
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\DiscountStrategy.dll
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\DiscountStrategy.pdb
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.csprojAssemblyReference.cache
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.csproj.CoreCompileInputs.cache
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.AssemblyInfoInputs.cache
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.AssemblyInfo.cs
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.dll
+C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.pdb
