@@ -7,7 +7,9 @@ public static class OrderFactory
         {
             return new Order()
             {
-                Coupons = Order.DiscountCoupons.XMAS
+                Coupon = DiscountCoupons.XMAS,
+                OrderId = 100,
+                OrderTotal = 323
             };
         }
 
@@ -15,7 +17,9 @@ public static class OrderFactory
         {
            return new Order()
             {
-                Coupons = Order.DiscountCoupons.NEWYR
+                Coupon = DiscountCoupons.NEWYR,
+                OrderId = 200,
+                OrderTotal = 492
             };
         }
 
@@ -23,7 +27,9 @@ public static class OrderFactory
         {
             return new Order()
             {
-                Coupons = Order.DiscountCoupons.BLACKFRI
+                Coupon = DiscountCoupons.BLACKFRI,
+                OrderId = 300,
+                OrderTotal = 8722
             };
         }
     }
