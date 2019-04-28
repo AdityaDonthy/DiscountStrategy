@@ -9,3 +9,6 @@ C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.Assembly
 C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.AssemblyInfo.cs
 C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.dll
 C:\VSCodeRoot\DiscountStrategy\obj\Debug\netcoreapp2.1\DiscountStrategy.pdb
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\VSCodeRoot\DiscountStrategy\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

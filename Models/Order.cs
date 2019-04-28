@@ -11,5 +11,6 @@ namespace DiscountStrategy.Models
 
         public DiscountCoupons Coupons { get; set; }
         public int OrderId { get; set; }
+        public double OrderTotal { get; set; }
     }
 }

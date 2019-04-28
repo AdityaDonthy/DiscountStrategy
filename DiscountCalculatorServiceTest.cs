@@ -26,6 +26,6 @@ public class DiscountCalculatorServiceTest
             var discountCalculatorService = new DiscountCalculatorService();
             var order = OrderFactory.CreateOrder_BLACKFRI();
             var discount = discountCalculatorService.CalculateDiscount(order);
-            Assert.AreEqual(35, discount);
+            Assert.AreEqual(35d, discount);
         }
     }

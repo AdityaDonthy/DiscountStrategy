@@ -22,12 +22,12 @@ namespace DiscountStrategy
 
         }
 
-        double CalculateForXMAS(Order order)
+        int CalculateForXMAS(Order order)
         {
             return 25;
         }
 
-        double CalculateForNEWYR(Order order)
+        int CalculateForNEWYR(Order order)
         {
             return 15;
         }
